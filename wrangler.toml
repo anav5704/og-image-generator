@@ -1,3 +1,7 @@
 name = "og-image-generator"
 main = "src/index.ts"
 compatibility_date = "2025-01-20"
+
+routes = [
+    { pattern = "og.anav.dev", custom_domain = true }
+]
