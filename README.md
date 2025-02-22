@@ -1,8 +1,1 @@
-```
-npm install
-npm run dev
-```
-
-```
-npm run deploy
-```
+This was supposed to be a serverless dynamic open-graph image generator for [anav.dev](https://anav.dev). It has been replaced with [this Astro endpoint](https://github.com/anav5704/anav.dev/blob/5d05e0b81f4e83b7ef46a090cd0656398e92d074/src/pages/api/og.ts).
